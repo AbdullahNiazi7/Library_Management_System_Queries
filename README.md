@@ -90,11 +90,17 @@ Loan status updated to Returned
 Available copies increased back to 5
 
 # 🎯 Project Objectives Achieved
+
 ✔ Fully normalized database (1NF–5NF)
+
 ✔ Enforced referential integrity
+
 ✔ Data validation through constraints
+
 ✔ Optimized performance with indexing
+
 ✔ Clear documentation and ER diagrams
+
 ✔ Production-ready design
 
 # 📌 Conclusion
